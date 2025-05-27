@@ -20,12 +20,12 @@ I initiated the strategy on 05/16/25.
 
 As of 05/27/25:
 
-**Theoretical gain**:   6.26% 
-**Open gain**:          1.87%
+- **Theoretical gain**:   6.26% 
+- **Open gain**:          1.87%
 
 ### Definitions ###
 
-- #Theoretical gain# is how much income I generated selling calls versus the initial investment.
-- #Open gain# is the gain (or loss) considering everything, including the mark to market of the stocks purchased.
+- *Theoretical gain* is how much income I generated selling calls versus the initial investment.
+- *Open gain* is the gain (or loss) considering everything, including the mark to market of the stocks purchased.
 
-The #Open gain# in this case is much lower as the result has been impacted by the recent performance of MSTR, which went from $417 to $372. However, here we see the power of the strategy to compensate for downward moves. 
+The *Open gain* in this case is much lower as the result has been impacted by the recent performance of MSTR, which went from $417 to $372. However, here we see the power of the strategy to compensate for downward moves. 
